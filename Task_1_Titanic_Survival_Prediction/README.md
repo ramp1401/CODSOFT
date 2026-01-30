@@ -1,5 +1,4 @@
 # Titanic Survival Prediction
-# Titanic Survival Prediction
 
 ## Objective
 The goal of this project is to predict whether a passenger survived the
